@@ -2,11 +2,11 @@
 
 A comprehensive repository for the Tools in Data Science course at IIT Madras, containing notes, resources, and a complete Git command reference.
 
-## 📚 Course Overview
+##  Course Overview
 
 This repository contains materials and resources for the Tools in Data Science (TDS) course, covering essential tools and techniques used in modern data science workflows.
 
-## 🎯 Topics Covered
+##  Topics Covered
 
 - **Version Control**: Git and GitHub fundamentals
 - **Data Manipulation**: Python libraries (Pandas, NumPy)
@@ -15,7 +15,7 @@ This repository contains materials and resources for the Tools in Data Science (
 - **Development Tools**: Jupyter Notebooks, IDEs
 - **Collaboration**: GitHub workflows, pull requests, code reviews
 
-## 🚀 Git Quick Reference Guide
+##  Git Quick Reference Guide
 
 ### Basic Git Commands
 
@@ -159,7 +159,7 @@ git reset
 git revert
 ```
 
-## ��� Understanding the Pathspec Separator
+##  Understanding the Pathspec Separator
 
 ```bash
 git <command> [options] -- [file/path]
@@ -181,13 +181,13 @@ git checkout -- myfile.txt  # Restore myfile.txt from the index
 git log -- src/  # Show commits that affected the src/ directory
 ```
 
-## 📖 Resources
+##  Resources
 
 - [Official Git Documentation](https://git-scm.com/doc)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to contribute to this repository by:
 1. Forking the repository
@@ -196,7 +196,7 @@ Feel free to contribute to this repository by:
 4. Pushing to the branch (`git push origin feature/amazing-feature`)
 5. Opening a Pull Request
 
-## 📝 License
+##  License
 
 This repository is for educational purposes as part of the TDS-IITM course.
 
